@@ -83,10 +83,10 @@ DB_DATABASE=your_database_name
 ## 📸 API Screenshots & Demo
 
 ### Server Running
-![Server Running](snapshots\Screenshot%202025-10-18%20220515.png)
+![Server Running](\snapshots\Screenshot%202025-10-18%20220515.png)
 
 ### API Testing - Get All Items
-![Get All Items](snapshots\Screenshot%202025-10-19%20123735.png)
+![Get All Items](\snapshots\Screenshot%202025-10-19%20123735.png)
 
 ### API Testing - Create Item
 ![Create Item](snapchats\Screenshot 2025-10-19 123735.png)
