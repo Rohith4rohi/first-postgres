@@ -89,7 +89,7 @@ DB_DATABASE=your_database_name
 ![Get All Items](snapchats/Screenshot%202025-10-19%20123735.png)
 
 ### API Testing - Create Item
-![Create Item](snapchats/Screenshot%202025-10-19%20123735.png)
+![Create Item](snapchats/Screenshot%202025-10-19%20123751.png)
 
 ### API Testing - Get Single Item
 ![Get Single Item](snapchats/Screenshot%202025-10-19%20123808.png)
@@ -98,4 +98,4 @@ DB_DATABASE=your_database_name
 ![Delete Item](snapchats/Screenshot%202025-10-19%20123846.png)
 
 ### Database Verification
-![Database Verification](snapshots/Screenshot%202025-10-19%20123735.png)
+![Database Verification](snapshots/Screenshot%202025-10-19%20123828.png)
