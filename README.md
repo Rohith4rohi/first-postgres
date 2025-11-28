@@ -83,19 +83,19 @@ DB_DATABASE=your_database_name
 ## 📸 API Screenshots & Demo
 
 ### Server Running
-![Server Running](\snapshots\Screenshot%202025-10-18%20220515.png)
+![Server Running](\snapchats\Screenshot%202025-10-18%20220515.png)
 
 ### API Testing - Get All Items
-![Get All Items](\snapshots\Screenshot%202025-10-19%20123735.png)
+![Get All Items](\snapchats\Screenshot%202025-10-19%20123735.png)
 
 ### API Testing - Create Item
-![Create Item](snapchats\Screenshot 2025-10-19 123735.png)
+![Create Item](\snapchats\Screenshot%202025-10-19%20123735.png)
 
 ### API Testing - Get Single Item
-![Get Single Item](snapshots\Screenshot 2025-10-19 123808.png)
+![Get Single Item](\snapchats\Screenshot%202025-10-19%20123808.png)
 
 ### API Testing - Delete Item
-![Delete Item](snapshots\Screenshot 2025-10-19 123846.png)
+![Delete Item](\snapchats\Screenshot%202025-10-19%20123846.png)
 
 ### Database Verification
 ![Database Verification](snapshots\Screenshot 2025-10-19 123735.png)
