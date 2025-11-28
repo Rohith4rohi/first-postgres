@@ -98,4 +98,4 @@ DB_DATABASE=your_database_name
 ![Delete Item](snapchats/Screenshot%202025-10-19%20123846.png)
 
 ### Database Verification
-![Database Verification](snapshots/Screenshot%202025-10-19%20123828.png)
+![Database Verification](snapchats/Screenshot%202025-10-19%20123828.png)
